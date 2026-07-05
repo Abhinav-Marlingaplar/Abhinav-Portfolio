@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhinav-portfolio-nine-gules.vercel.app/sitemap.xml
